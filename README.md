@@ -24,7 +24,7 @@
   <h2 align="center">Recruiters 💼 </h2>
   
  
-  I am actively looking for a role as a software developer, if you are a recuiter and you have an open position, please reach out to me on [LinkedIn.](https://www.linkedin.com/in/zarah-s-018718150/)
+  I am actively looking for a role as a software developer, if you are a recuiter and you have an open position, please do reach out to me on [LinkedIn.](https://www.linkedin.com/in/zarah-s-018718150/)
 
 
 <h2 align="center">Languages and Tools</h2>
