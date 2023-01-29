@@ -11,9 +11,9 @@
 
 🔍 My key passions in life are technology, problem solving and being creative. 
 
-💊I first came across programming in the final year of my chemistry degree where i used computational methods to screen through a library of compounds for drug development in order to find the compound with the greatest therapeutic value.
+💊I first came across programming in the final year of my chemistry degree where I used computational methods to screen through a library of compounds for drug development in order to find the compound with the greatest therapeutic value.
 
-📚Since discovering programming, i have been teaching myself web development over the last year and have worked with HMTL, CSS, JavaScript, Node.js, express.js and SQL.
+📚Since discovering programming, I have been teaching myself web development and have built projects with HMTL, CSS, JavaScript, Node.js, express.js and SQL.
 
 👩🏽‍💻I am currently enrolled on a Software Engineering Bootcamp where I am building [various projects](https://github.com/ZarahS/Capstone-Projects) using Python, Django and SQL.
 
