@@ -15,7 +15,7 @@
 
 🌱 Since discovering programming, I have been teaching myself web development and have built projects with HMTL, Python, CSS, JavaScript, Node.js, Express.js and SQL.
 
-🙋🏽 All of my projects are available [here.]([https://github.com/ZarahS](https://github.com/ZarahS?tab=repositories)
+🙋🏽 All of my projects are available [here.]([https://github.com/ZarahS](https://github.com/ZarahS?tab=repositories))
   
 <h2 align="center">Recruiters 💼 </h2>
   
