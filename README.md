@@ -13,18 +13,14 @@
 
 💊I first came across programming in the final year of my chemistry degree where I used computational methods to screen through a library of compounds for drug development in order to find the compound with the greatest therapeutic value.
 
-📚Since discovering programming, I have been teaching myself web development and have built projects with HMTL, CSS, JavaScript, Node.js, express.js and SQL.
-
-👩🏽‍💻I am currently enrolled on a Software Engineering Bootcamp where I am building [various projects](https://github.com/ZarahS/Capstone-Projects) using Python, Django and SQL.
-
-🌱 I want to grow as a developer and I am ready to move into a tech role, i believe this will play to my strengths and help me reach my full potential.
+🌱 Since discovering programming, I have been teaching myself web development and have built projects with HMTL, Python, CSS, JavaScript, Node.js, Express.js and SQL.
 
 🙋🏽 All of my projects are available [here.](https://github.com/ZarahS)
   
-  <h2 align="center">Recruiters 💼 </h2>
+<h2 align="center">Recruiters 💼 </h2>
   
  
-  I am actively looking for a role as a software developer, if you are a recuiter and you have an open position, please do reach out to me on [LinkedIn.](https://www.linkedin.com/in/zarah-s-018718150/)
+I am actively looking for a role as a software developer, if you are a recuiter and you have an open position, please reach out to me on [LinkedIn.](https://www.linkedin.com/in/zarah-s-018718150/)
 
 
 <h2 align="center">Languages and Tools 🛠️ </h2>
